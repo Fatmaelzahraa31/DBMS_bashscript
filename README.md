@@ -1,0 +1,1 @@
+# DBMS_bashscript
